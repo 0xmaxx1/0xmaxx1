@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xmaxx1" alt="0xmaxx1" /></a> </p>
 <img  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" align="right">
-- 🔭 I’m currently working on [Weather Wise App](https://weatherwise-dev.vercel.app/)
+- 🔭 I’m currently working on [Weather Wise App](https://github.com/0xmaxx1/weatherwise_app)
 
 - 🌱 I’m currently learning **Angular**
 
-- 👯 I’m looking to collaborate on [Game Over App](https://github.com/0xmaxx1/game-over-app)
+- 👯 I’m looking to collaborate on [Game Over App](https://github.com/0xmaxx1/GameOver_App)
 
-- 🤝 I’m looking for help with [Quiz App](https://github.com/0xmaxx1/quiz-app)
+- 🤝 I’m looking for help with [Quiz App](https://github.com/0xmaxx1/Quiz_App)
 
 - 👨‍💻 All of my projects are available at [https://github.com/0xmaxx1](https://github.com/0xmaxx1)
 
